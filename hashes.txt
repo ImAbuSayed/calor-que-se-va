@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Calor que se va
+
+This log tracks the cryptographic history and versioning for the song **Calor que se va** (calor-que-se-va).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-18T06:40:43.664747 | `v1` | `c737a929be8913cec45e90fb4fbd0b286a9daa0339ea7f39c7188654582d0f76` | `79f1d80e213207d688ed5569236b24a839212c8c65215504d903467aee5dc45f` | `2026-06-18_calor-que-se-va-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
