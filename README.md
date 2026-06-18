@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/calor-que-se-va/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Calor que se va](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-que-se-va/) |
+| **Get License** | [Get License For Calor que se va](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/calor-que-se-va/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tú tienes ese fuego, baby, calor que se va
+> Me acercas a tu cuerpo y no quiero mirar atrás
+> Bailando en la disco, mami, tú eres mi debilidad
+> Esta noche es nuestra, let's get lost in the city lights
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
